@@ -1,0 +1,7 @@
+selenium==4.8.3
+urllib3==1.26.15
+requests==2.31.0
+html5lib==1.1
+bs4==0.0.2
+cloudscraper==1.2.71
+requests_html==0.10.0
